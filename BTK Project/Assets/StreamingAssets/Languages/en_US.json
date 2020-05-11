@@ -1,0 +1,41 @@
+{
+    "main_menu_main":[
+        "Play",
+        "Options",
+        "Credits",
+        "Exit"
+    ],
+
+    "main_menu_language":[
+        "Choose your language"
+    ],
+
+    "main_menu_settings":[
+        "Back",
+        "General",
+        "Graphic",
+        "Audio"
+    ],
+
+    "main_menu_play":[
+        "Wanna start a new game?"
+        "New game",
+        "Continue",
+        "Back"
+    ],
+
+    "settings_general":[
+        "Change language"
+    ],
+
+    "settings_graphic":[
+        "Graphic's level",
+        "Screen's size",
+        "Full Screen"
+    ],
+
+    "settings_audio":[
+        "All sounds",
+        "Mute"
+    ]
+}
